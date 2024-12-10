@@ -10,6 +10,7 @@ This project aims to solve the problem that yany people tend to ignore early sig
 - [Project Scope](#project-scope)
 - [Technology Stack](#technology-stack)
 - [Dataset](#dataset)
+- [Main Repository](#main-repository)
 - [Team Members](#team-members)
 
 ## Project Scope
@@ -35,6 +36,11 @@ This project aims to solve the problem that yany people tend to ignore early sig
  - Figma - Design Tool
 
 ## Dataset
+
+## Main Repository
+- Machine Learning - <https://github.com/Skinlyze/Skinlyze-ML.git>
+- Backend API - <https://github.com/Skinlyze/Skinlyze-Backend.git>
+- Frontent Android - <https://github.com/Skinlyze/Skinlyze-Frontend-Android.git>
 
 ## Team Members
 
