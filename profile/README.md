@@ -54,8 +54,6 @@ We use datasets sourced from [Harvard Dataverse (The HAM10000 dataset) and ISIC]
 | C504B4KY3114 | Muhammad Yansah                 | Institut Sains dan Bisnis Atma Luhur | Cloud Computing                     | Active  | [@norGunnar](https://github.com/norGunnar)       
 | A299B4KY3563 | Raden Rahman Ismail             | Universitas Pendidikan Indonesia     | Mobile Development                  | Active  | [@SuraGendil](https://github.com/SuraGendil)     
 
-## Conclusion
-
 ## Contact
 For more information, please contact:
  - [Muhammad Fauzan Naufal Ridho](c247b4ky2846@bangkit.academy)
