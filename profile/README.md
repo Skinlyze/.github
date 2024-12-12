@@ -56,4 +56,4 @@ We use datasets sourced from [Harvard Dataverse (The HAM10000 dataset) and ISIC]
 
 ## Contact
 For more information, please contact:
- - [Muhammad Fauzan Naufal Ridho](<c247b4ky2846@bangkit.academy>)
+ - Muhammad Fauzan Naufal Ridho - <c247b4ky2846@bangkit.academy>
