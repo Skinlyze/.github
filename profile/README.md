@@ -12,6 +12,7 @@ This project aims to solve the problem that many people tend to ignore early sig
 - [Dataset](#dataset)
 - [Main Repository](#main-repository)
 - [Team Members](#team-members)
+- [Acknowledgments](#acknowledgments)
 
 ## Project Scope
 - ML model can classify skin image into one of 7 diseases.
@@ -53,6 +54,8 @@ We use datasets sourced from [Harvard Dataverse (The HAM10000 dataset) and ISIC]
 | C247B4KY2846 | Muhammad Fauzan Naufal Ridho    | Universitas Lambung Mangkurat        | Cloud Computing                     | Active  | [@ozannaufal15](https://github.com/ozannaufal15) 
 | C504B4KY3114 | Muhammad Yansah                 | Institut Sains dan Bisnis Atma Luhur | Cloud Computing                     | Active  | [@norGunnar](https://github.com/norGunnar)       
 | A299B4KY3563 | Raden Rahman Ismail             | Universitas Pendidikan Indonesia     | Mobile Development                  | Active  | [@SuraGendil](https://github.com/SuraGendil)     
+## Acknowledgments
+This project is a part of the Bangkit Academy 2024 capstone initiative by Team C242-PR613. We extend our heartfelt gratitude to our advisors, Mr. Firdhaus R. Azis and Mrs. Monifa Arini, for their guidance and support.
 
 ## Contact
 For more information, please contact:
