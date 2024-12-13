@@ -1,7 +1,7 @@
 # SKINLYZE - Capstone Project C242-PR613
 
 ## Overview
-This project aims to solve the problem that yany people tend to ignore early signs of skin conditions such as moles, rashes, spots, or lesions because of lack of awareness or reluctance to seek medical advice by developing an android application that can give information about skin disease by capturing a picture of skin conditions, then giving the name of the skin disease and treatment that can be done to the user, making skin disease diagnosis easier and more accessible.
+This project aims to solve the problem that many people tend to ignore early signs of skin conditions such as moles, rashes, spots, or lesions because of lack of awareness or reluctance to seek medical advice by developing an android application that can give information about skin disease by capturing a picture of skin conditions, then giving the name of the skin disease and treatment that can be done to the user, making skin disease diagnosis easier and more accessible.
 
 ![image](Capstone.jpg)
 
